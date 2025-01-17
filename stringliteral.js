@@ -44,3 +44,16 @@ console.log(templateLiteralPoem);
 let userName ="Jackie";
 let message ="How are you doing today?"
 console.log(`Good Morning ${userName} find your money ${400+200}$. ${message}`);
+
+const a = 5;
+const b = 10;
+
+console.log(`'a' is assigned a value of "${a}," and 'b' is assigned a value of "${b}."
+Therefore, 'a' plus 'b' is equal to ${a + b}.`);
+
+console.log(typeof(null))
+console.log("10"+5)
+console.log(1+2===3)
+/*hkjh
+hgjg
+*/
